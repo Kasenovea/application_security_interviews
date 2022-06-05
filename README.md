@@ -7,9 +7,10 @@ So, here i'm publishing some technical questions what i've been asked for Applic
 ### Hope, it will help u to get the Job))   
 
 
-**questions**
-TCP/UDP fundamentals
-Assymetric/Symmetric encryption , PKI
+**questions** <br>
+
+- TCP/UDP fundamentals
+- Assymetric/Symmetric encryption , PKI
 Inter process communication
 What's the /etc/passwd and /etc/shadow
 Basic Linux 
